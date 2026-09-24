@@ -47,7 +47,4 @@ Data-Analytics-Internship-Projects/
 ├── Project-4-Power-BI-Dashboard/
 └── README.md
 
-## 🔗 Connect With Me
 
-- **GitHub:** [@VinayJiraniya725](https://github.com/VinayJiraniya725)
-- **LinkedIn:** [Vinay Kumar](https://www.linkedin.com/in/vinay-kumar/)
