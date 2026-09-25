@@ -234,7 +234,7 @@ The dashboard helps analyze:
 - Target achievement
 
 
-👉 [View Project 4 – Power BI Dashboard]https://github.com/VinayJiraniya725/Data-Analytics-Internship/commit/116366af13578275f2663852c0141b90da5d458b
+👉 [View Project 4 – Power BI Dashboard]https://github.com/VinayJiraniya725/Data-Analytics-Internship/blob/main/Project_4/Data%20Analytics%20Intership%20Dashboard.png
 
 # 📈 Overall Project Workflow
 
