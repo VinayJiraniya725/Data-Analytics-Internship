@@ -61,7 +61,7 @@ The analysis helps identify sales patterns and areas that can support better bus
 `OrderID`, `Date`, `CustomerID`, `Product`, `Quantity`, `UnitPrice`, `PaymentMethod`, `OrderStatus`, `CouponCode`, `ReferralSource`, `TotalPrice`, `Year`, `Month`, `Day`
 
 
-👉 [View Project 1 – Data Cleaning](./Project%201%20-%20Data%20Cleaning/)
+👉 [View Project 1 – Data Cleaning]https://github.com/VinayJiraniya725/Data-Analytics-Internship/tree/main/Project_1
 ---
 
 # 🔹 Project 2 — Exploratory Data Analysis (EDA)
