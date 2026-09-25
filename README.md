@@ -111,7 +111,7 @@ The analysis helps identify sales patterns and areas that can support better bus
 - Correlation and scatter plots help understand relationships between numerical variables.
 
 
-👉 [View Project 2 – EDA](./Project%202%20-%20EDA/)
+👉 [View Project 2 – EDA]https://github.com/VinayJiraniya725/Data-Analytics-Internship/tree/main/Project_2
 ---
 
 # 🔹 Project 3 — SQL Business Analysis
