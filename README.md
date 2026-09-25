@@ -62,7 +62,7 @@ The analysis helps identify sales patterns and areas that can support better bus
 
 
 👉 [View Project 1 – Data Cleaning]https://github.com/VinayJiraniya725/Data-Analytics-Internship/tree/main/Project_1
----
+
 
 # 🔹 Project 2 — Exploratory Data Analysis (EDA)
 
@@ -112,7 +112,7 @@ The analysis helps identify sales patterns and areas that can support better bus
 
 
 👉 [View Project 2 – EDA]https://github.com/VinayJiraniya725/Data-Analytics-Internship/tree/main/Project_2
----
+
 
 # 🔹 Project 3 — SQL Business Analysis
 
