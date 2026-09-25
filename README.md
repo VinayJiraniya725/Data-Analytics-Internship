@@ -60,6 +60,8 @@ The analysis helps identify sales patterns and areas that can support better bus
 
 `OrderID`, `Date`, `CustomerID`, `Product`, `Quantity`, `UnitPrice`, `PaymentMethod`, `OrderStatus`, `CouponCode`, `ReferralSource`, `TotalPrice`, `Year`, `Month`, `Day`
 
+
+👉 [View Project 1 – Data Cleaning](./Project%201%20-%20Data%20Cleaning/)
 ---
 
 # 🔹 Project 2 — Exploratory Data Analysis (EDA)
@@ -108,6 +110,8 @@ The analysis helps identify sales patterns and areas that can support better bus
 - Monthly analysis helps identify sales trends over time.
 - Correlation and scatter plots help understand relationships between numerical variables.
 
+
+👉 [View Project 2 – EDA](./Project%202%20-%20EDA/)
 ---
 
 # 🔹 Project 3 — SQL Business Analysis
@@ -182,6 +186,8 @@ Customers were categorized into:
 - Regular
 - Frequent
 
+👉 [View Project 3 – SQL Analysis](./Project%203%20-%20SQL%20Analysis/)
+
 ---
 
 # 🔹 Project 4 — Power BI E-Commerce Sales Dashboard
@@ -227,6 +233,8 @@ The dashboard helps analyze:
 - Referral-source performance
 - Target achievement
 
+
+👉 [View Project 4 – Power BI Dashboard](./Project%204%20-%20Power%20BI/)
 ---
 
 # 📈 Overall Project Workflow
