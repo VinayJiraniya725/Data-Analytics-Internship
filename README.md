@@ -186,7 +186,7 @@ Customers were categorized into:
 - Regular
 - Frequent
 
-👉 [View Project 3 – SQL Analysis](./Project%203%20-%20SQL%20Analysis/)
+👉 [View Project 3 – SQL Analysis]https://github.com/VinayJiraniya725/Data-Analytics-Internship/tree/main/Project_3
 
 ---
 
